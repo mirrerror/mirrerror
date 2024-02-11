@@ -31,8 +31,6 @@
 
 I am a future Software Engineer from Moldova.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mirrerror/)
-
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
