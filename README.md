@@ -29,7 +29,7 @@
 
 ### :man_technologist: About Me :
 
-I am a future Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Moldova.
+I am a future Software Engineer from Moldova.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mirrerror/)
 
