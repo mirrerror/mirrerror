@@ -29,7 +29,7 @@
 
 My name is Dmitriy. I'm 20. I'm a future Software Engineer from Moldova. I like to solve problems, programming, learning languages, cultures, listening to music and workout.
 
-### :hammer_and_wrench: Languages and Tools:
+### :hammer_and_wrench: Languages and tools:
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
