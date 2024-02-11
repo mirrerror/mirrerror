@@ -27,7 +27,7 @@
 
 ### :man_technologist: About me:
 
-My name is Dmitriy. I'm 20. I'm a future Software Engineer from Moldova. I like to solve problems, programming, learning languages, cultures and workout.
+My name is Dmitriy. I'm 20. I'm a future Software Engineer from Moldova. I like to solve problems, programming, learning languages, cultures, listening to music and workout.
 
 ### :hammer_and_wrench: Languages and Tools:
 
