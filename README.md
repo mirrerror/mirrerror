@@ -1,49 +1,84 @@
-<div id="header" align="center">
-  <img src="https://private-user-images.githubusercontent.com/74038190/240906093-9be4d344-6782-461a-b5a6-32a07bf7b34e.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDc2OTA3MTEsIm5iZiI6MTcwNzY5MDQxMSwicGF0aCI6Ii83NDAzODE5MC8yNDA5MDYwOTMtOWJlNGQzNDQtNjc4Mi00NjFhLWI1YTYtMzJhMDdiZjdiMzRlLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDAyMTElMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwMjExVDIyMjY1MVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWU2ZWI4ODNhMDM1MWRkY2M1ZDhkNGYzNzYzNzRlZjNhZDFjY2UzNmRjNTBiNDk0YTgwZGZkOTBhNjhhYzkzZmEmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.jIHMKIQXTDu4FNGwONUyDd45T21_M0IClFezryUqeXc" width="100"/>
+<div align="center">
+
+# Hi, I'm Dmitriy <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+
+### Software Engineer · Backend Developer
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%237C3AED.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mirrerror/)
+[![Profile Views](https://komarev.com/ghpvc/?username=mirrerror&style=for-the-badge&color=7c3aed)](https://github.com/mirrerror)
+
 </div>
 
-<div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/mirrerror/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-</div>
+---
 
-<div id="profileviews" align="center">
-  <img src="https://komarev.com/ghpvc/?username=mirrerror&style=flat-square&color=blue" alt=""/>
-</div>
+## `> whoami`
 
-<div id="hello" align="center">
-  <h1>
-    Hey there 
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-  </h1>
-</div>
+```yaml
+name:       Dmitriy
+age:        21
+role:       Software Engineer
+status:     Open to new challenges
+focus:      Backend · Databases · Scalable Systems
+passion:    Building things that actually matter
+```
 
-### :man_technologist: About me:
+I'm a passionate software engineer who thrives on tackling complex problems and building systems that scale. I believe in writing clean, maintainable code and continuously pushing the boundaries of what I know.
 
-My name is Dmitriy. I'm <!--AGE-->22<!--/AGE-->. I'm a passionate Software Engineer always eager to tackle new challenges and expand my expertise. I'm
-enthusiastic about contributing to innovative projects that have a real impact, aiming to
-advance my career in software engineering through continuous learning and meaningful
-contributions to cutting-edge developments in the field.
+---
 
-### :hammer_and_wrench: Languages and tools:
+## `> tech --stack`
 
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/maven/maven-original-wordmark.svg" title="Maven" alt="Maven" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mariadb/mariadb-original-wordmark.svg" title="MariaDB" alt="MariaDB" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg" title="IntelliJ Idea" alt="IntelliJ Idea" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg" title="PyCharm" alt="PyCharm" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original-wordmark.svg" title="Postman" alt="Postman" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/json/json-original.svg" title="JSON" alt="JSON" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/yaml/yaml-original.svg" title="YAML" alt="YAML" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/windows11/windows11-original.svg" title="Windows 11" alt="Windows 11" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original.svg" title="Linux Ubuntu" alt="Linux Ubuntu" width="40" height="40"/>
+**Languages**
+
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
+
+**Frameworks & Build Tools**
+
+![Spring](https://img.shields.io/badge/Spring-%236DB33F.svg?style=flat-square&logo=spring&logoColor=white)
+![Apache Maven](https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=Apache%20Maven&logoColor=white)
+
+**Databases**
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white)
+
+**Web**
+
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)
+
+**Tools & Platforms**
+
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat-square&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?style=flat-square&logo=intellij-idea&logoColor=white)
+![PyCharm](https://img.shields.io/badge/PyCharm-143?style=flat-square&logo=pycharm&logoColor=black&color=black&labelColor=green)
+![JSON](https://img.shields.io/badge/JSON-000000?style=flat-square&logo=json&logoColor=white)
+![YAML](https://img.shields.io/badge/YAML-CB171E?style=flat-square&logo=yaml&logoColor=white)
+
+**OS**
+
+![Windows](https://img.shields.io/badge/Windows%2011-0067B8.svg?style=flat-square&logo=windows11&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
+
+---
+
+
+## `> cat values.txt`
+
+```
+✦  Clean architecture
+✦  Continuous learning as a lifestyle  
+✦  Real impact
+✦  Collaboration
+```
+
+---
+
+<div align="center">
+
+*"First, solve the problem. Then, write the code."*
+
 </div>
